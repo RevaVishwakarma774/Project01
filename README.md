@@ -17,7 +17,7 @@ Login Form :-
 
 
 Registration Form :- 
-(![Screenshot 2025-02-05 193906](https://github.com/user-attachments/assets/8cf4431d-d630-4a8d-8ca4-9cab931f4f31)
+![Screenshot 2025-02-05 193906](https://github.com/user-attachments/assets/8cf4431d-d630-4a8d-8ca4-9cab931f4f31)
 
 
 ## Technologies Used
