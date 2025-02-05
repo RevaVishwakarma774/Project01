@@ -58,5 +58,5 @@ Registration Form :-
 A live demo of the form is available in the `index.html` file.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [License](LICENSE).
 
