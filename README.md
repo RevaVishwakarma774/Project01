@@ -27,12 +27,9 @@ Registration Form :-
 
 ## Project Structure
 ```
-|-- CSS/
-|   |-- form.css   # Stylesheet for the form
-|
-|-- JS/
-|   |-- form.js    # JavaScript logic for toggling between login and signup
-|
+
+|-- form.css   # Stylesheet for the form
+|-- form.js    # JavaScript logic for toggling between login and signup
 |-- index.html     # Main HTML file
 |-- README.md      # Project documentation
 ```
