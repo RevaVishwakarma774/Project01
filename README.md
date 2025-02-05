@@ -12,9 +12,11 @@ This repository contains a fully responsive login and registration form built us
 
 ## Screenshots
 
-![Login Form](!(https://github.com/user-attachments/assets/293b8f42-8a26-45f1-8461-334bd61de282)
+![Login Form](![Screenshot 2025-02-05 193811](https://github.com/user-attachments/assets/db3a0272-9f15-4e8e-92ab-d9e1f1f98138)
 )
-![Registration Form](!(https://github.com/user-attachments/assets/8c356ed6-536b-42a3-a7d9-672a5b980b32)
+)
+![Registration Form](![Screenshot 2025-02-05 193906](https://github.com/user-attachments/assets/8cf4431d-d630-4a8d-8ca4-9cab931f4f31)
+)
 )
 
 ## Technologies Used
